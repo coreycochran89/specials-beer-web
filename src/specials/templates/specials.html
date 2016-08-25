@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="nav">
+    <div class="options">
+      <div class="filter"></div>
+      <div class="likes"></div>
+      <div class="location"></div>
+      <div class="search"></div>
+    </div>
+  </div>
+  <!--<button class="btn" data-ng-click="specialsList.getSpecials();">ALL!</button>-->
+  <!--<button class="btn btn-primary" data-ng-click="specialsList.getSpecials('beer');">BEER!</button>-->
+  <div class="row">
+    <div data-ng-repeat="special in specialsList.specials">
+      <special-block special="special"></special-block>
+    </div>
+  </div>
+</div>

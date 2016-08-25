@@ -1,0 +1,34 @@
+{
+  "specials":
+  [
+    { "id":"01", "category":"beer", "name":"Coors Light", "price": "$3.00", "bar": "Kilroys" },
+    { "id":"07", "category":"liquor", "name":"Jack Daniels", "price": "$3.00", "bar": "Stacked Pickle" },
+    { "id":"16", "category":"wine", "name":"Moscoto", "price": "$3.00", "bar": "Mineshaft" },
+    { "id":"22", "category":"cocktail", "name":"Mojito", "price": "$3.00", "bar": "Mineshaft" },
+    { "id":"02", "category":"beer", "name":"Bud Light", "price": "$3.00", "bar": "Mineshaft" },
+    { "id":"08", "category":"liquor", "name":"Fireball", "price": "$3.00", "bar": "Average Joes" },
+    { "id":"17", "category":"wine", "name":"Reisling", "price": "$3.00", "bar": "Howl At The Moon" },
+    { "id":"23", "category":"cocktail", "name":"Car Bomb", "price": "$3.00", "bar": "Stacked Pickle" },
+    { "id":"03", "category":"beer", "name":"Sunlight Cream Ale", "price": "$3.00", "bar": "Howl At The Moon" },
+    { "id":"09", "category":"liquor", "name":"Jameson", "price": "$3.00", "bar": "Kilroys" },
+    { "id":"18", "category":"wine", "name":"Moscoto", "price": "$3.00", "bar": "Stacked Pickle" },
+    { "id":"24", "category":"cocktail", "name":"Daquiri", "price": "$3.00", "bar": "Slippery Noodle" },
+    { "id":"04", "category":"beer", "name":"PBR", "price": "$3.00", "bar": "Slippery Noodle" },
+    { "id":"10", "category":"liquor", "name":"Wild Turkey", "price": "$3.00", "bar": "Stacked Pickle" },
+    { "id":"19", "category":"wine", "name":"Roscoto", "price": "$3.00", "bar": "Rock Lobster" },
+    { "id":"25", "category":"cocktail", "name":"Bloody Mary" , "price": "$3.00", "bar": "Mineshaft"},
+    { "id":"05", "category":"beer", "name":"Blue Moon", "price": "$3.00", "bar": "Average Joes" },
+    { "id":"11", "category":"liquor", "name":"Captain Morgan", "price": "$3.00", "bar": "Rock Lobster" },
+    { "id":"20", "category":"wine", "name":"Pinot Noir", "price": "$3.00", "bar": "Slippery Noodle" },
+    { "id":"26", "category":"cocktail", "name":"Screwdriver", "price": "$3.00", "bar": "Howl At The Moon" },
+    { "id":"06", "category":"beer", "name":"Budweiser", "price": "$3.00", "bar": "Howl At The Moon"},
+    { "id":"12", "category":"liquor", "name":"Barcardi", "price": "$3.00", "bar": "Slippery Noodle" },
+    { "id":"21", "category":"wine", "name":"Pinot Grigio", "price": "$3.00", "bar": "Kilroys" },
+    { "id":"27", "category":"cocktail", "name":"Margarita" , "price": "$3.00", "bar": "Average Joes"},
+    { "id":"13", "category":"liquor", "name":"Jose Cuervo", "price": "$3.00", "bar": "Average Joes" },
+    { "id":"14", "category":"liquor", "name":"Smirnoff", "price": "$3.00", "bar": "Kilroys" },
+    { "id":"15", "category":"liquor", "name":"Early Times", "price": "$3.00", "bar": "Rock Lobster" },
+    { "id":"21", "category":"wine", "name":"Cabernet", "price": "$3.00", "bar": "Mineshaft" },
+    { "id":"28", "category":"cocktail", "name":"Gin and Tonic", "price": "$3.00", "bar": "Kilroys" }
+  ]
+}

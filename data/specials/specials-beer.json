@@ -1,0 +1,11 @@
+{
+  "specials":
+  [
+    { "id":"01", "category":"beer", "name":"Coors Light", "price": "$3.00", "bar": "Kilroys" },
+    { "id":"02", "category":"beer", "name":"Bud Light", "price": "$3.00", "bar": "Mineshaft" },
+    { "id":"03", "category":"beer", "name":"Sunlight Cream Ale", "price": "$3.00", "bar": "Howl At The Moon" },
+    { "id":"04", "category":"beer", "name":"PBR", "price": "$3.00", "bar": "Slippery Noodle" },
+    { "id":"05", "category":"beer", "name":"Blue Moon", "price": "$3.00", "bar": "Average Joes" },
+    { "id":"06", "category":"beer", "name":"Budweiser", "price": "$3.00", "bar": "Howl At The Moon"}
+  ]
+}
